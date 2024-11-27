@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center" style="padding: 5px">
+<div align="center">
   <div align ="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
     <img width="12" />
