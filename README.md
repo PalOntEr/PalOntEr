@@ -17,7 +17,7 @@
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg" height="30" alt="directx11 logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="30" alt="opengl logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="40" alt="opengl logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="c# logo" />
     <img width="12" />
@@ -33,6 +33,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" height="30" alt="cassandra logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro logo" />
   </div>
