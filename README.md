@@ -10,8 +10,7 @@ I'm an aspiring gameplay developer
 </div>
 
 ###
-
-<img align="right" height="150" src="https://tenor.com/view/arcane-gif-24272188"  />
+<div class="tenor-gif-embed" data-postid="24272188" data-share-method="host" data-aspect-ratio="1.35021" data-width="100%"><a href="https://tenor.com/view/arcane-gif-24272188">Arcane GIF</a>from <a href="https://tenor.com/search/arcane-gifs">Arcane GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 
 ###
@@ -45,7 +44,7 @@ I'm an aspiring gameplay developer
   <a href="https://discordapp.com/users/palonter" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/max-andrés-zertuche-pérez" target="_blank">
+  <a href="https://www.linkedin.com/in/max-andrés-zertuche-pérez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
