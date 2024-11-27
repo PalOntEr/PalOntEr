@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! I'm Max Zertuche</h2>
+<h2 align="left">¡Hola! I'm Max Zertuche 🫡</h2>
 
 <h3 align="left">🚀 About Me</h3>
 
