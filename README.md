@@ -10,7 +10,7 @@ I'm an aspiring gameplay developer
 </div>
 
 ###
-  <img src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" height="150" alt="arcane gif"  />
+  <img align="right" height="150" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" height="150" alt="arcane gif"  />
 <br>
 
 ###
