@@ -7,38 +7,26 @@
 </div>
 
 <div align="center">
-  <img align="center" height="150" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
+  <img align="center" height="150" width="268" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
 </div>
 
 <hr>
 
-<p align="center">
-  <strong>Technologies and tools I'm experienced with:</strong>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg" height="30" alt="directx11 logo" style="background: #e0e0e0; padding: 2px; border-radius: 5px;" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="30" alt="opengl logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="c# logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="microsoft sql server logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" height="30" alt="unreal engine logo" style="background: #e0e0e0; padding: 2px; border-radius: 5px;" />  
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="30" alt="swift logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" height="30" alt="cassandra logo" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro logo" style="background: #e0e0e0; padding: 2px; border-radius: 5px;" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,nodejs,ts,threejs,tailwind,astro" height="60" alt="tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,unity,swift" height="60" alt="tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,firebase,azure" height="60" alt="tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongo" height="60" alt="tech stack" />
+</div>
 
 <hr>
 
