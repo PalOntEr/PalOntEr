@@ -1,31 +1,36 @@
 <h1 align="center">¡Hola! I'm PalOntEr 🫡</h1>
 <h3 align="center">Aspiring gameplay developer</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palonter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palonter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img align="center" height="150" width="268" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 24px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=palonter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palonter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
+  <div style="min-width: 50%">
+    <img align="center" height="150" width="268" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
+  </div>
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,nodejs,ts,threejs,tailwind,astro" height="60" alt="tech stack" />
+  <h4 align="center">Web</h4>
+  <img src="https://skillicons.dev/icons?i=html,nodejs,ts,threejs,tailwind,astro" height="60" alt="web technologies" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,unity,swift" height="60" alt="tech stack" />
+  <h4 align="center">Logic</h4>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,unity,swift" height="60" alt="logic technologies" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,googlecloud,firebase,azure" height="60" alt="tech stack" />
+  <h4 align="center">Hosting</h4>
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,firebase,azure" height="60" alt="hosting technologies" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongo" height="60" alt="tech stack" />
+  <h4 align="center">Databases</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,mongo,cassandra" height="60" alt="databases" />
 </div>
 
 <hr>
