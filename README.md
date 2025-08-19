@@ -1,13 +1,14 @@
 <h1 align="center">¡Hola! I'm PalOntEr 🫡</h1>
 <h3 align="center">Aspiring gameplay developer</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <div style="margin-right: 24px;">
+<div align="center">
+  <div style="min-width: 50%">
     <img src="https://github-readme-stats.vercel.app/api?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
   </div>
   <div style="min-width: 50%">
-    <img align="center" height="100%" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
+    <img align="center" height="200" src="https://leetcard.jacoblin.cool/PalOntEr?theme=catppuccinMocha&font=Assistant&ext=activity" alt="leetcode stats" />
+    <img align="center" height="200" style="margin: 15px;" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
   </div>
 </div>
 
