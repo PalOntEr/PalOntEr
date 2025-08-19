@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
   </div>
   <div style="min-width: 50%">
-    <img align="center" height="150" width="268" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
+    <img align="center" height="100%" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
   </div>
 </div>
 
