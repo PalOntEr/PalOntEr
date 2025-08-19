@@ -3,8 +3,8 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="margin-right: 24px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=palonter&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palonter&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
   </div>
   <div style="min-width: 50%">
     <img align="center" height="150" width="268" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
