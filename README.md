@@ -11,7 +11,7 @@
     <img align="center" height="200" style="margin: auto;" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
   </div>
   <div>
-    <h4><a href="https://palonter.github.io/portfolio/">Portfolio</a></h4>
+    <h4>You can see some of my proudest work <a href="https://palonter.github.io/portfolio/">here</a></h4>
   </div>
 </div>
 
