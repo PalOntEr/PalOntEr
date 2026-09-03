@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>¡Hola! I'm PalOntEr</h1>
+  <h1>¡Hola! I'm PalOntEr 🫡</h1>
   <p>
     <b>Aspiring Gameplay Developer</b> | Focused on game mechanics, real-time rendering, and low-level systems.
   </p>
