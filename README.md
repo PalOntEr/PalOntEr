@@ -1,75 +1,67 @@
-<h1 align="center">¡Hola! I'm PalOntEr 🫡</h1>
-<h3 align="center">Aspiring gameplay developer</h3>
-
 <div align="center">
-  <!-- <div style="min-width: 50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palonter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-  </div> -->
-  <div style="min-width: 50%">
-    <img align="center" height="200" src="https://leetcard.jacoblin.cool/PalOntEr?theme=catppuccinMocha&font=Assistant&ext=activity" alt="leetcode stats" />
-    <img align="center" height="200" style="margin: auto;" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="arcane gif" />
-  </div>
-  <div>
-    <h4>You can see some of my proudest work <a href="https://palonter.github.io/portfolio/">here</a></h4>
-  </div>
+
+  <h1>¡Hola! I'm PalOntEr</h1>
+  <p>
+    <b>Aspiring Gameplay Developer</b> | Focused on game mechanics, real-time rendering, and low-level systems.
+  </p>
+
+  <p>
+    <a href="https://palonter.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-palonter.github.io-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mazp"><img src="https://img.shields.io/badge/LinkedIn-mazp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://discordapp.com/users/palonter"><img src="https://img.shields.io/badge/Discord-palonter-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
+
+  <br />
+
+  <!-- Hero: Stats & Jinx GIF -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="185" src="https://leetcard.jacoblin.cool/PalOntEr?theme=catppuccinMocha&font=Assistant&ext=activity" alt="LeetCode stats" />
+      </td>
+      <td align="center" width="50%">
+        <img height="185" style="border-radius: 8px; object-fit: cover;" src="https://c.tenor.com/6ct11rxCZyAAAAAC/jinx-arcane.gif" alt="Jinx Arcane" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-<hr>
+---
 
-<div align="center">
-  <h3 align="center">Tech Stack</h3>
-</div>
+### About Me
 
-<div align="center">
-  <h4 align="center">Languages</h4>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,ts,python,swift,javascript,html" height="60" alt="languages" />
-</div>
+- Focusing on gameplay engineering, systems architecture, and graphics programming.
+- Core tools: C++, C#, Unreal Engine, and Unity.
+- Working with low-level graphics APIs and computing (DirectX 11, shaders, CUDA).
+- Experienced across full-stack toolings and interactive web experiences (Three.js, React).
+- You can find featured projects and technical demos on my [Portfolio](https://palonter.github.io/portfolio/).
 
-<div align="center">
-  <h4 align="center">Frontend & Styling</h4>
-  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind" height="60" alt="frontend and styling" />
-</div>
+---
 
-<div align="center">
-  <h4 align="center">Backend & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,astro,fastapi,express,flask" height="60" alt="backend and frameworks" />
-</div>
+### Tech Stack & Tooling
 
-<div align="center">
-  <h4 align="center">Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="60" alt="databases" />
-</div>
+#### Game Development, Engines & Low-Level
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs" height="48" alt="Engines and Core Languages" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/DirectX11-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="28" alt="DirectX 11" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28" alt="CUDA" />
+  <img src="https://img.shields.io/badge/GLSL_/_HLSL-555555?style=for-the-badge&logo=opengl&logoColor=white" height="28" alt="Shaders" />
+</p>
 
-<div align="center">
-  <h4 align="center">Cloud & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=firebase,googlecloud,docker,aws" height="60" alt="cloud and devops" />
-</div>
+#### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,javascript,swift" height="45" alt="Programming Languages" />
+</p>
 
-<div align="center">
-  <h4 align="center">Systems & Engines</h4>
-  <div>
-    <img src="https://skillicons.dev/icons?i=unreal,unity,linux,ubuntu,windows,arduino" height="60" alt="systems and engines" />
-  </div>
-  <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white" height="30" alt="cuda" />
-  <img src="https://img.shields.io/badge/DirectX11-0078D4?style=for-the-badge" height="30" alt="directx11" />
-</div>
+#### Web, Graphics & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs,react,tailwind,nodejs,fastapi,firebase,docker,aws" height="45" alt="Web and Cloud" />
+</p>
 
-<div align="center">
-  <h4 align="center">Tools & Design</h4>
-  <img src="https://skillicons.dev/icons?i=figma,postman,npm" height="60" alt="tools and design" />
-</div>
-
-<hr>
-
-<div align="center">
-  <a href="https://discordapp.com/users/palonter" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mazp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://palonter.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link"  />
-  </a>
-</div>
+#### Tools, Platforms & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux,windows" height="45" alt="Tools and Systems" />
+</p>
